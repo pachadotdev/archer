@@ -1,0 +1,13 @@
+Package: archer
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: person("Mauricio", "Vargas", email = "mvargas@dcc.uchile.cl", role = c("aut", "cre"))
+Description: Full dialogues for Archer seasons 1 to 10, ready for text analysis.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    tibble,
+    tidytext
+RoxygenNote: 7.0.2
